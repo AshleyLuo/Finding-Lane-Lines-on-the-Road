@@ -16,6 +16,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./test_images_output/grayscale.jpg "Grayscale"
+[image2]: ./test_images_output/blur_gray_image.jpg "Blur_gray"
+[image3]: ./test_images_output/edges.jpg "edges"
+[image4]: ./test_images_output/masked_edges.jpg "masked_edges"
+[image5]: ./test_images_output/line_image.jpg "line_image"
+[image6]: ./test_images_output/testouput.jpg "testoutput_image"
 
 ---
 
